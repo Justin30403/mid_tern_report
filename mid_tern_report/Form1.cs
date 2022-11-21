@@ -20,6 +20,7 @@ namespace mid_tern_report
             Form2 form2;
             form2 = new Form2();
             form2.ShowDialog();
+            //test
         }
 
         private void button1_Click(object sender, EventArgs e)
